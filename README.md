@@ -7,6 +7,7 @@
 The game start with newGame function. It make sure that every thing is:
 - zero like, time and move count,
  - empty like array that hold two card to check if it is match or not.
+ 
 After that start shuffling the pictures and make sure the card is close. 
 Then the game is ready to respond to click. I store two click in array to do the next step which it is comparing.
 ## Resources:
